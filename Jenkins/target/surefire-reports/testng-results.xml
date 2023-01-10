@@ -8,12 +8,12 @@
       <![CDATA[hiii]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-01-09T15:58:16 IST" name="Suite" finished-at="2023-01-09T15:58:16 IST" duration-ms="77">
+  <suite started-at="2023-01-09T17:17:48 IST" name="Suite" finished-at="2023-01-09T17:17:48 IST" duration-ms="79">
     <groups>
     </groups>
-    <test started-at="2023-01-09T15:58:16 IST" name="Test" finished-at="2023-01-09T15:58:16 IST" duration-ms="77">
+    <test started-at="2023-01-09T17:17:48 IST" name="Test" finished-at="2023-01-09T17:17:48 IST" duration-ms="79">
       <class name="Demo.Test2">
-        <test-method signature="m2()[pri:0, instance:Demo.Test2@6bedbc4d]" started-at="2023-01-09T15:58:16 IST" name="m2" finished-at="2023-01-09T15:58:16 IST" duration-ms="1" status="PASS">
+        <test-method signature="m2()[pri:0, instance:Demo.Test2@31e5415e]" started-at="2023-01-09T17:17:48 IST" name="m2" finished-at="2023-01-09T17:17:48 IST" duration-ms="0" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hiii]]>
@@ -22,7 +22,7 @@
         </test-method> <!-- m2 -->
       </class> <!-- Demo.Test2 -->
       <class name="Demo.Test1">
-        <test-method signature="m1()[pri:0, instance:Demo.Test1@6631f5ca]" started-at="2023-01-09T15:58:16 IST" name="m1" finished-at="2023-01-09T15:58:16 IST" duration-ms="17" status="PASS">
+        <test-method signature="m1()[pri:0, instance:Demo.Test1@696da30b]" started-at="2023-01-09T17:17:48 IST" name="m1" finished-at="2023-01-09T17:17:48 IST" duration-ms="8" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello]]>
